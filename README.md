@@ -7,5 +7,5 @@ These packages will be required to run the the Jupyter Notebook.  To install the
 pip install [Package Name] —user
 
 ### Package List
-PyMySql
-pandas
+1. PyMySql
+2. pandas
