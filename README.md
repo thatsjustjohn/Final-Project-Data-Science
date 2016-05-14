@@ -2,7 +2,10 @@
 
 ## Packages
 
-These packages will be required to run the the Jupyter Notebook.  To install these you will need to SSH into the server and execute these commands
+These packages will be required to run the the Jupyter Notebook.  To install these you will need to SSH into the server and use this command to install each package.
 
-pip install PyMySQL —user
-pip install pandas —user
+pip install [Package Name] —user
+
+### Package List
+PyMySql
+pandas
